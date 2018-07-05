@@ -1,0 +1,11 @@
+entity Project {
+	id Long,
+    name String,
+    category String,
+    JARpath String,
+    Blockpath String,
+    dateCreated Date,
+    is_processed Boolean
+}
+
+
